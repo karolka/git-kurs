@@ -6,6 +6,3 @@ Kolejna linijka tekstu x2
 # Opis dodatkowy
 
 Kolejna linijka tekstu x3
-
-
-#zmiana z mastera
