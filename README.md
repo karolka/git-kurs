@@ -1,3 +1,5 @@
+# zmiana z mastera
+
 # Moje pierwsze repozytorium
 
 Kolejna linijka tekstu
