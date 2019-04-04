@@ -8,3 +8,4 @@ Kolejna linijka tekstu x2
 Kolejna linijka tekstu x3
 
 
+#zmiana z mastera
